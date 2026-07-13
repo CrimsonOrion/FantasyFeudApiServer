@@ -1,0 +1,62 @@
+{
+    "id": "test-season---test-game-1",
+    "game_title": "Test Game #1",
+    "description": "Sample beach-themed test game",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Name something you find at the beach",
+            "answers": [
+                { "answer": "Sand", "value": 40 },
+                { "answer": "Water", "value": 30 },
+                { "answer": "Seashells", "value": 15 },
+                { "answer": "Sunscreen", "value": 10 },
+                { "answer": "Towel", "value": 5 }
+            ]
+        },
+        {
+            "id": "q2",
+            "question": "Name a reason someone might be late for work",
+            "answers": [
+                { "answer": "Traffic", "value": 45 },
+                { "answer": "Overslept", "value": 25 },
+                { "answer": "Car trouble", "value": 15 },
+                { "answer": "Kids", "value": 10 },
+                { "answer": "Weather", "value": 5 }
+            ]
+        },
+        {
+            "id": "q3",
+            "question": "Name something you do right before bed",
+            "answers": [
+                { "answer": "Brush teeth", "value": 35 },
+                { "answer": "Check phone", "value": 25 },
+                { "answer": "Read", "value": 20 },
+                { "answer": "Set alarm", "value": 15 },
+                { "answer": "Lock doors", "value": 5 }
+            ]
+        },
+        {
+            "id": "q4",
+            "question": "Name something people collect",
+            "answers": [
+                { "answer": "Coins", "value": 30 },
+                { "answer": "Stamps", "value": 25 },
+                { "answer": "Cards", "value": 20 },
+                { "answer": "Toys", "value": 15 },
+                { "answer": "Comics", "value": 10 }
+            ]
+        },
+        {
+            "id": "q5",
+            "question": "Name an animal you'd see at a zoo",
+            "answers": [
+                { "answer": "Lion", "value": 30 },
+                { "answer": "Elephant", "value": 25 },
+                { "answer": "Giraffe", "value": 20 },
+                { "answer": "Monkey", "value": 15 },
+                { "answer": "Penguin", "value": 10 }
+            ]
+        }
+    ]
+}

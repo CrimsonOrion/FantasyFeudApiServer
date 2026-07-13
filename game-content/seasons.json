@@ -1,0 +1,8 @@
+[
+    {
+        "id": "test-season",
+        "name": "Test Season",
+        "description": "Sample season for testing the game-content server",
+        "note": "1 game"
+    }
+]

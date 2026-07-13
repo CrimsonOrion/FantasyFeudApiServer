@@ -1,0 +1,14 @@
+{
+  "name": "fantasyfeudapiserver",
+  "version": "1.0.0",
+  "description": "Fantasy Feud game-content API server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "CrimsonOrion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
