@@ -4,16 +4,11 @@
   "description": "Fantasy Feud game-content API server",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "jest"
+    "start": "node app.js"
   },
   "author": "CrimsonOrion",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "jest": "^30.4.2",
-    "supertest": "^7.2.2"
   }
 }
